@@ -377,7 +377,8 @@ An automation-oriented Python system designed to monitor Telegram signals, extra
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendra-dev-hub&bg_color=0D1117&color=8B5CF6&line=6366F1&point=8B5CF6&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendra-dev
+  hub&bg_color=0D1117&color=8B5CF6&line=6366F1&point=8B5CF6&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -387,7 +388,7 @@ An automation-oriented Python system designed to monitor Telegram signals, extra
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mahendra-dev-hub/Mahendra-dev-hub/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Mahendra-dev-hub/Mahendra/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
