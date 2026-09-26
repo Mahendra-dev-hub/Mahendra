@@ -1,402 +1,177 @@
-<div align="center">
+Bandaru Mahendra · GitHub Profile
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI+Engineer;Python+%7C+FastAPI+%7C+AI%2FML+%7C+Cybersecurity;Building+Scalable+%26+Intelligent+Systems;Engineering+Products+That+Create+Real+Impact)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Bandaru Mahendra — Software Engineer and AI Engineer">
+</picture>
 
-<a href="https://www.google.com/search?q=Bandaru+Mahendra+GitHub">
-  <img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="B.Tech CSE"/>
-</a>
-<a href="https://www.google.com/search?q=Bandaru+Mahendra+GitHub">
-  <img src="https://img.shields.io/badge/CGPA-6.67-6366F1?style=for-the-badge&logo=bookstack&logoColor=white" alt="CGPA"/>
-</a>
-<a href="https://www.google.com/maps/search/Hyderabad,+Telangana,+India">
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C+India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-</a>
+About
 
-<br/>
+I am a Software Engineer and AI-focused developer with a foundation in Python, backend engineering, AI/ML, cybersecurity, and product development.
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/mahendra-bhandaru">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mahendramahe7684@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+My current focus is on building practical software with Python, FastAPI, REST APIs, AI/ML workflows, computer vision, automation, and security engineering. I am also strengthening DSA, system design, and modern agentic-AI architecture skills.
 
-<br/><br/>
+Open to
 
-<img src="https://komarev.com/ghpvc/?username=Mahendra-dev-hub&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Mahendra-dev-hub?label=FOLLOWERS&style=for-the-badge&color=6366F1&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Mahendra-dev-hub?label=STARS&style=for-the-badge&color=8B5CF6&logo=github" alt="Stars"/>
+Software Engineering
 
-</div>
+Python Development
 
----
+AI / ML Engineering
 
-## About
+Backend Engineering
 
-I am a **Software Engineer and AI-focused developer** with a strong foundation in Python, backend engineering, artificial intelligence, cybersecurity, and product development.
+Full-Stack Development
 
-My engineering approach combines **clean architecture, practical problem solving, automation, and intelligent systems** to build reliable software that solves real-world problems. I enjoy working across the stack — from designing APIs and backend services to integrating AI models and developing production-ready applications.
+Cybersecurity / VAPT / SOC
 
-I have hands-on experience with **Python, FastAPI, REST APIs, AI/ML workflows, OpenCV, NumPy, Pandas, React, Git, cloud deployment, cybersecurity tooling, and network security**.
+AI Agent & Automation projects
 
-My current focus is on becoming a stronger **AI Engineer / Software Engineer** by building scalable systems, improving system-design fundamentals, solving DSA problems, and exploring modern agentic AI architectures.
+Open-source collaboration
 
-### Open To
+Engineering Stack
 
-- Software Engineering opportunities
-- Python Developer roles
-- AI / ML Engineering opportunities
-- Backend Engineering
-- Full Stack Development
-- Cybersecurity / VAPT / SOC opportunities
-- AI Agent & Automation projects
-- Open-source collaboration
+Area
 
----
+Technologies
 
-## Tech Stack
+Languages
 
-### Languages
+Python, C, C++, HTML, CSS, JavaScript
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript" />
-</p>
+Backend
 
-### Frontend
+FastAPI, REST APIs, Node.js
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" />
-</p>
+Frontend
 
-### Backend & Databases
+React, Vite
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,mongodb,postgres,redis" />
-</p>
+AI / ML
 
-### Cloud, DevOps & Tooling
+AI model integration, OpenCV, NumPy, Pandas, TF-IDF, cosine similarity, RAG concepts
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,postman,vscode" />
-</p>
+Security
 
-### Security & Engineering
+Nmap, Burp Suite, Wireshark, Nessus, Kali Linux, VirtualBox
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
-</p>
+Tools / Platforms
 
-<p align="center">
-<b>Security Tools:</b> Nmap • Burp Suite • Wireshark • Nessus • Kali Linux • VirtualBox
-</p>
+Git, GitHub, Docker, Linux, AWS, Vercel, Postman, VS Code
 
----
+Data / DB
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Python Engineering | Advanced | OOP, APIs, automation, asynchronous programming and backend development |
-| AI Engineering | Intermediate | AI-powered applications, model integration and intelligent automation |
-| Generative AI | Intermediate | LLM-powered applications, prompt workflows and AI application development |
-| AI Agents | Intermediate | Agent workflows, tool usage and autonomous task execution |
-| Computer Vision | Intermediate | OpenCV-based image processing and similarity analysis |
-| NLP | Intermediate | Text processing, similarity analysis and document-oriented AI workflows |
-| Data Processing | Intermediate | NumPy, Pandas and structured data transformation |
-| REST APIs | Advanced | API design, integration, testing and backend services |
-| FastAPI | Advanced | High-performance Python API development |
-| RAG Systems | Intermediate | Retrieval-oriented AI application architecture |
-| AI Automation | Intermediate | AI-assisted workflows and task automation |
+MySQL, MongoDB, PostgreSQL, Redis
 
----
+Featured Projects
 
-## Featured Projects
+01 · AI Resume Tailoring Platform
 
-<details>
-<summary><b>01 · AI Resume Tailoring Platform</b></summary>
+An AI-powered application that analyzes job descriptions and tailors resume content toward relevant requirements.
 
-### AI Resume Tailoring Platform
+Stack: Python · FastAPI · REST APIs · AI Models · React · Vite
 
-An AI-powered application designed to analyze job descriptions and dynamically tailor resume content toward relevant requirements.
+FastAPI backend for resume-processing workflows
 
-| Category | Details |
-|---|---|
-| **Stack** | Python • FastAPI • REST APIs • AI Models • React • Vite |
-| **Scale** | Modular full-stack application |
-| **Performance** | Lightweight API architecture with asynchronous-ready backend design |
-| **Security** | API validation • CORS controls • Environment-based configuration |
-| **Impact** | Automates resume customization and improves job-specific content alignment |
-| **Repository** | [GitHub Repository](https://github.com/) |
+AI model integration for job-description-driven customization
 
-### Engineering Scope
+REST communication between frontend and backend
 
-- Designed a FastAPI backend for resume-processing workflows.
-- Integrated AI model capabilities for job-description-driven customization.
-- Implemented REST endpoints for frontend/backend communication.
-- Built a React/Vite frontend for user interaction.
-- Worked on document generation and single-page resume formatting.
-- Designed the application with deployment in mind using modern cloud platforms.
+Document generation and single-page resume formatting
 
-</details>
+Deployment-oriented application architecture
 
----
+02 · Image & Text Plagiarism Detection
 
-<details>
-<summary><b>02 · Image & Text Plagiarism Detection System</b></summary>
+A B.Tech project combining text similarity analysis and computer vision to identify potential plagiarism across textual and visual content.
 
-### Plagiarism Detection of Images and Text
+Stack: Python · OpenCV · TF-IDF · Cosine Similarity · NumPy
 
-A B.Tech project combining text similarity analysis and computer vision techniques to identify potential plagiarism across textual and visual content.
+TF-IDF feature extraction for text
 
-| Category | Details |
-|---|---|
-| **Stack** | Python • OpenCV • TF-IDF • Cosine Similarity • NumPy |
-| **Scale** | Academic AI/ML application |
-| **Performance** | Vector-based similarity comparison for efficient text analysis |
-| **Security** | Local processing architecture with controlled input handling |
-| **Impact** | Automated detection of similarities across text and image content |
-| **Repository** | [GitHub Repository](https://github.com/) |
+Cosine similarity for document comparison
 
-### Engineering Scope
+OpenCV-based image-processing workflows
 
-- Implemented TF-IDF-based textual feature extraction.
-- Used cosine similarity to compare document content.
-- Applied OpenCV for image-processing workflows.
-- Combined textual and visual analysis into a unified plagiarism-detection concept.
-- Focused on practical AI/ML implementation using Python.
+Unified text + image plagiarism-detection concept
 
-</details>
+03 · Weather Application
 
----
+A full-stack weather application using geocoding and forecast APIs with a Python backend and React/Vite frontend.
 
-<details>
-<summary><b>03 · AI-Powered Weather Application</b></summary>
+Stack: Python · FastAPI · React · Vite · Open-Meteo · REST APIs
 
-### AI-Ready Weather Application
+Open-Meteo geocoding and forecast integration
 
-A full-stack weather application using geocoding and forecast APIs with a Python backend and modern frontend architecture.
+FastAPI endpoints for weather retrieval
 
-| Category | Details |
-|---|---|
-| **Stack** | Python • FastAPI • React • Vite • Open-Meteo • REST APIs |
-| **Scale** | Full-stack web application |
-| **Performance** | API-driven architecture with lightweight frontend rendering |
-| **Security** | CORS configuration • Environment-aware deployment |
-| **Impact** | Provides location-based weather information through a modern web interface |
-| **Repository** | [GitHub Repository](https://github.com/) |
+Location-based weather queries
 
-### Engineering Scope
+Frontend/backend API integration
 
-- Integrated Open-Meteo geocoding and forecast APIs.
-- Developed FastAPI endpoints for weather retrieval.
-- Connected React frontend with backend REST services.
-- Implemented location-based weather queries.
-- Deployed application components using modern cloud hosting workflows.
-- Debugged production API and deployment issues.
+Deployment and production debugging experience
 
-</details>
+04 · Telegram Trading Signal Automation
 
----
+A Python automation workflow designed to read selected Telegram signals, extract structured information, cache instruments, and integrate with broker APIs.
 
-<details>
-<summary><b>04 · Automated Trading Signal Engine</b></summary>
+Stack: Python · Telethon · SmartAPI · Requests · Regex · JSON
 
-### Telegram Trading Signal Automation
+Telegram message processing with Telethon
 
-An automation-oriented Python system designed to monitor Telegram signals, extract structured trading information, map instruments, and integrate with broker APIs.
+Structured signal extraction from unstructured messages
 
-| Category | Details |
-|---|---|
-| **Stack** | Python • Telethon • SmartAPI • Requests • Regex • JSON |
-| **Scale** | Event-driven automation workflow |
-| **Performance** | Cached instrument data and controlled polling |
-| **Security** | Environment variables • OTP-based authentication • Controlled API access |
-| **Impact** | Automates signal extraction and broker-order workflows |
-| **Repository** | [GitHub Repository](https://github.com/) |
+Regex-based symbol, strike, option type, and price extraction
 
-### Engineering Scope
+Instrument-master caching
 
-- Monitored selected Telegram channels using Telethon.
-- Extracted structured trading signals from unstructured messages.
-- Implemented regex-based symbol, strike, option-type and price extraction.
-- Added instrument-master caching to reduce repeated downloads.
-- Implemented duplicate-signal tracking.
-- Integrated Angel One SmartAPI for account and order workflows.
-- Added price monitoring, order execution and stop-loss logic.
+Duplicate-signal tracking
 
-</details>
+Angel One SmartAPI integration
 
----
+Experience
 
-## Experience
+Technical Support — Network L2 · ConnectSecure
 
-### Technical Support — Network L2  
-**ConnectSecure**
+Technical Support · Network Security · Vulnerability Management
 
-`Technical Support • Network Security • Vulnerability Management`
+Supported security products used to identify system vulnerabilities
 
-- Provided technical support for security products designed to identify system vulnerabilities.
-- Worked with Windows, Linux and macOS environments.
-- Investigated technical issues involving security scanning workflows.
-- Used **Nessus** for vulnerability assessment and troubleshooting.
-- Supported customers through structured issue diagnosis and resolution.
-- Worked across networking and system-level troubleshooting scenarios.
+Worked across Windows, Linux, and macOS environments
 
-**Skills:** `Technical Support` `Networking` `Windows` `Linux` `macOS` `Nessus` `Troubleshooting`
+Investigated security-scanning and technical issues
 
----
+Used Nessus for vulnerability assessment and troubleshooting
 
-### VAPT Intern  
-**Cartel Software Pvt. Ltd.**
+Worked across networking and system-level troubleshooting scenarios
 
-`May 2023 — Oct 2023`
+VAPT Intern · Cartel Software Pvt. Ltd.
 
-- Assisted with vulnerability assessment and penetration-testing activities.
-- Studied and assessed common web application security vulnerabilities.
-- Worked with security testing methodologies and vulnerability identification.
-- Gained practical exposure to penetration-testing workflows.
-- Worked with security tools including **Burp Suite, Nmap and Wireshark**.
-- Developed foundational understanding of OWASP-based application security.
+May 2023 — Oct 2023
 
-**Skills:** `VAPT` `OWASP` `Burp Suite` `Nmap` `Wireshark` `Web Security` `Linux`
+Assisted with vulnerability assessment and penetration-testing activities
 
----
+Worked with common web application security concepts
 
-## Achievements
+Gained practical exposure to penetration-testing workflows
 
-<div align="center">
+Used Burp Suite, Nmap, and Wireshark
 
-| Recognition | Details |
-|---|---|
-| **B.Tech CSE Graduate** | Completed Bachelor of Technology in Computer Science and Engineering |
-| **CEH Certified** | Certified Ethical Hacker credential demonstrating foundational cybersecurity knowledge |
-| **AI/ML Project Development** | Built an academic plagiarism detection system combining NLP and computer vision |
-| **Full Stack Development** | Developed applications using FastAPI, React and REST APIs |
-| **Cybersecurity Experience** | Practical exposure to VAPT, vulnerability assessment and technical security support |
-| **DSA Practice** | Regularly solving algorithmic and data-structure problems with emphasis on trees and problem solving |
+Built foundational understanding of OWASP-oriented application security
 
-</div>
+Education
 
----
+B.Tech — Computer Science & Engineering
+St. Mark Educational Institution Society Group of Institutions · JNTU Anantapur
+CGPA: 6.67
 
-## Certifications
+Certification
 
-### AWS
+Certified Ethical Hacker (CEH)
 
-<a href="#">
-<img src="https://img.shields.io/badge/AWS-Certification-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
+Current Focus
 
-### Oracle
-
-<a href="#">
-<img src="https://img.shields.io/badge/Oracle-Certification-6366F1?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>
-
-### NPTEL
-
-<a href="#">
-<img src="https://img.shields.io/badge/NPTEL-Certification-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</a>
-
-### Cisco
-
-<a href="#">
-<img src="https://img.shields.io/badge/Cisco-Certification-6366F1?style=for-the-badge&logo=cisco&logoColor=white"/>
-</a>
-
-### Cybersecurity
-
-<a href="#">
-<img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-</a>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/mahe5757/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-111827?style=for-the-badge&logo=leetcode&logoColor=8B5CF6"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=6366F1"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-111827?style=for-the-badge&logo=hackerrank&logoColor=8B5CF6"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-111827?style=for-the-badge&logo=codechef&logoColor=6366F1"/>
-</a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mahendra-dev-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra-dev-hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Mahendra-dev-hub&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mahendra-dev-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendra-dev
-  hub&bg_color=0D1117&color=8B5CF6&line=6366F1&point=8B5CF6&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mahendra-dev-hub/Mahendra/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
 Learning:
   - Data Structures & Algorithms
   - System Design
@@ -420,11 +195,16 @@ Exploring:
   - Cloud-native engineering
   - Scalable backend architecture
 
-Open To:
-  - Software Engineering
-  - Python Development
-  - AI Engineering
-  - Backend Engineering
-  - Full Stack Development
-  - Cybersecurity
-  - Open Source Collaboration
+Connect
+
+GitHub: Mahendra-dev-hub
+
+LinkedIn: mahendra-bhandaru
+
+Email: mahendramahe7684@gmail.com
+
+LeetCode: mahe5757
+
+<p align="center">
+  <sub>Designed as a self-contained terminal-inspired profile identity · Dark / Light theme ready</sub>
+</p>
