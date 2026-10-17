@@ -12,28 +12,38 @@
 
 </div>
 
-I’m **Mahendra Bandaru**, a Python developer interested in backend engineering and cybersecurity. I build API-focused applications and enjoy solving practical problems across software development and security.
+I’m **Mahendra Bandaru**, a Python developer focused on backend development and cybersecurity. I enjoy building practical applications, designing APIs, and exploring how reliable software and security-minded engineering work together.
 
 ---
 
-## Selected projects
+## Technical skills
 
-Projects listed in my résumé. Repository and demo links are omitted until verified.
-
-- **Movie Discovery and Watchlist Application**
-- **Resume Tailoring Application**
-- **Weather Application**
-
-## Skills
-
-| Area | Technologies |
+| Category | Technologies |
 |---|---|
-| Language | Python |
-| Backend | FastAPI · REST APIs · SQLAlchemy |
-| Frontend | React |
-| Data and computer vision | NumPy · Pandas · OpenCV |
-| Security | Nmap · Burp Suite · Wireshark · Nessus |
-| Tools | Git · GitHub |
+| **Languages** | Python · SQL |
+| **Backend development** | FastAPI · REST APIs · SQLAlchemy |
+| **Frontend** | React |
+| **Data & computer vision** | NumPy · Pandas · OpenCV |
+| **Security** | Nmap · Burp Suite · Wireshark · Nessus |
+| **Tools & collaboration** | Git · GitHub |
+
+## Featured projects
+
+### Weather Application
+
+A full-stack city weather application. The FastAPI backend retrieves current conditions from WeatherAPI, and a React/Vite frontend provides the interface.
+
+- **Stack:** Python · FastAPI · Requests · React · Vite · WeatherAPI
+- **Source:** [Repository](https://github.com/Mahendra-dev-hub/live-weather-app)
+- **Demo:** [live-weather-app-xi.vercel.app](https://live-weather-app-xi.vercel.app)
+
+### Movie Discovery and Watchlist Application
+
+This project is listed in my profile materials. Its implementation details, technologies, and public repository or demo URL were not available to verify, so I have not added them here.
+
+### Resume Tailoring Application
+
+This project is listed in my profile materials. Its implementation details, technologies, and public repository or demo URL were not available to verify, so I have not added them here.
 
 ## Experience
 
@@ -46,7 +56,7 @@ Projects listed in my résumé. Repository and demo links are omitted until veri
 
 ## GitHub contributions
 
-The contribution animation below is generated from GitHub contribution activity by this repository’s existing workflow. It is not a manually illustrated metric.
+The contribution animation below is generated from GitHub contribution activity by this repository’s existing workflow. It visualizes activity without adding estimated counts or other fabricated statistics.
 
 <div align="center">
   <picture>
@@ -56,6 +66,20 @@ The contribution animation below is generated from GitHub contribution activity 
   </picture>
 </div>
 
-## Find me
+## Certifications & achievements
 
-[GitHub](https://github.com/Mahendra-dev-hub)
+No certifications or achievements are listed here because supporting records were not available to verify them.
+
+## Professional links
+
+- [GitHub](https://github.com/Mahendra-dev-hub)
+- [LinkedIn](https://www.linkedin.com/in/mahendra-bhandaru)
+- [LeetCode](https://leetcode.com/u/mahe5757/)
+
+---
+
+<div align="center">
+
+<sub>Mahendra Bandaru · Python development · Backend engineering · Cybersecurity</sub>
+
+</div>
