@@ -2,48 +2,46 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./light.svg" alt="Mahendra Bandaru — Python Developer, Backend Development, Cybersecurity">
+    <img src="./light.svg" alt="Mahendra Bandaru — Python Developer, Backend Developer, Cybersecurity Enthusiast">
   </picture>
 </div>
 
 <div align="center">
 
-### Python Developer · Backend Development · Cybersecurity
+### Python Developer · Backend Developer · Cybersecurity Enthusiast
 
 </div>
 
-I’m **Mahendra Bandaru**, a Python developer focused on backend development and cybersecurity. I enjoy building practical applications, designing APIs, and exploring how reliable software and security-minded engineering work together.
+## About
+
+I’m **Mahendra Bandaru**, a Python developer with a focus on backend development and cybersecurity. I enjoy building practical applications, designing APIs, and bringing a security-minded approach to software.
 
 ---
 
 ## Technical skills
 
-| Category | Technologies |
+| Focus | Tools & technologies |
 |---|---|
 | **Languages** | Python · SQL |
-| **Backend development** | FastAPI · REST APIs · SQLAlchemy |
+| **Backend** | FastAPI · REST APIs · SQLAlchemy |
 | **Frontend** | React |
 | **Data & computer vision** | NumPy · Pandas · OpenCV |
 | **Security** | Nmap · Burp Suite · Wireshark · Nessus |
-| **Tools & collaboration** | Git · GitHub |
+| **Developer tools** | Git · GitHub |
 
 ## Featured projects
 
 ### Weather Application
 
-A full-stack city weather application. The FastAPI backend retrieves current conditions from WeatherAPI, and a React/Vite frontend provides the interface.
+A full-stack weather app with a React/Vite interface and a FastAPI service for city-based current-weather lookups.
 
-- **Stack:** Python · FastAPI · Requests · React · Vite · WeatherAPI
-- **Source:** [Repository](https://github.com/Mahendra-dev-hub/live-weather-app)
-- **Demo:** [live-weather-app-xi.vercel.app](https://live-weather-app-xi.vercel.app)
+- **Technologies:** Python · FastAPI · Requests · React · Vite · WeatherAPI
+- **Project:** [Source repository](https://github.com/Mahendra-dev-hub/live-weather-app) · [Live demo](https://live-weather-app-xi.vercel.app)
 
-### Movie Discovery and Watchlist Application
+### Other projects
 
-This project is listed in my profile materials. Its implementation details, technologies, and public repository or demo URL were not available to verify, so I have not added them here.
-
-### Resume Tailoring Application
-
-This project is listed in my profile materials. Its implementation details, technologies, and public repository or demo URL were not available to verify, so I have not added them here.
+Movie Discovery and Watchlist Application · Resume Tailoring Application<br>
+These projects are listed in my profile materials; source files and verified public links were not available, so I’m not adding technical details or URLs yet.
 
 ## Experience
 
@@ -52,11 +50,13 @@ This project is listed in my profile materials. Its implementation details, tech
 
 ## Education
 
-**B.Tech in Computer Science and Engineering** · Graduated 2023 · **CGPA: 6.67**
+**B.Tech in Computer Science and Engineering**<br>
+St. Mark Educational Institution Society Group of Institutions · Affiliated with JNTU Anantapur<br>
+Graduated 2023 · **CGPA: 6.67**
 
 ## GitHub contributions
 
-The contribution animation below is generated from GitHub contribution activity by this repository’s existing workflow. It visualizes activity without adding estimated counts or other fabricated statistics.
+This contribution animation is generated from GitHub contribution activity by the repository’s existing workflow. It shows activity visually without estimated counts, streaks, or rankings.
 
 <div align="center">
   <picture>
@@ -68,7 +68,7 @@ The contribution animation below is generated from GitHub contribution activity 
 
 ## Certifications & achievements
 
-No certifications or achievements are listed here because supporting records were not available to verify them.
+CEH and Python certifications were mentioned, but supporting records were not available to verify the issuing organizations or credentials. They are omitted until documentation is available. No achievements are listed without supporting evidence.
 
 ## Professional links
 
@@ -80,6 +80,8 @@ No certifications or achievements are listed here because supporting records wer
 
 <div align="center">
 
-<sub>Mahendra Bandaru · Python development · Backend engineering · Cybersecurity</sub>
+<img src="./assets/footer.svg" alt="A burgundy line ornament" width="100%" />
+
+<sub>Thanks for stopping by · Mahendra Bandaru</sub>
 
 </div>

@@ -40,7 +40,7 @@
 
     <text x="76" y="85" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="4">ENGINEERING / 01</text>
     <text x="72" y="171" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="600" letter-spacing="-.8">Mahendra Bandaru</text>
-    <text x="78" y="215" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="1.1">PYTHON DEVELOPER  /  BACKEND DEVELOPMENT  /  CYBERSECURITY</text>
+    <text x="78" y="215" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="1.1">PYTHON DEVELOPER  /  BACKEND DEVELOPER  /  CYBERSECURITY ENTHUSIAST</text>
     <path d="M78 244H720" fill="none" stroke="url(#dark-rose)" stroke-width="2" stroke-linecap="round" filter="url(#dark-soft-glow)"/>
     <path d="M78 244H720" fill="none" stroke="#E5B5C7" stroke-opacity=".65" stroke-width="1" stroke-dasharray="84 558">
       <animate attributeName="stroke-dashoffset" values="642;0" dur="7s" repeatCount="indefinite"/>
