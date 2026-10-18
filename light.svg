@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="light-title light-desc">
   <title id="light-title">Mahendra Bandaru — Python Developer</title>
-  <desc id="light-desc">A burgundy editorial profile banner for Python development, backend engineering, and cybersecurity.</desc>
+  <desc id="light-desc">A burgundy editorial profile banner for Mahendra Bandaru: Python Developer, Backend Developer, and Cybersecurity Enthusiast.</desc>
   <defs>
     <linearGradient id="light-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#F8F0F3"/>
@@ -14,12 +14,21 @@
       <stop offset="1" stop-color="#C77B9B"/>
       <animate attributeName="x2" values="1;.78;1" dur="9s" repeatCount="indefinite"/>
     </linearGradient>
+    <linearGradient id="light-sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset=".48" stop-color="#701A3D" stop-opacity=".08"/>
+      <stop offset=".52" stop-color="#F8F0F3" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
     <radialGradient id="light-glow">
       <stop offset="0" stop-color="#C77B9B" stop-opacity=".28"/>
       <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
     </radialGradient>
     <pattern id="light-grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#451126" stroke-opacity=".08"/>
+    </pattern>
+    <pattern id="light-grid-highlight" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#701A3D" stroke-opacity=".28"/>
     </pattern>
     <filter id="light-soft-glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
@@ -34,17 +43,26 @@
   <g clip-path="url(#light-frame)">
     <rect width="1200" height="380" fill="url(#light-bg)"/>
     <rect x="8" y="8" width="1184" height="364" fill="url(#light-grid)"/>
+    <rect x="8" y="8" width="1184" height="364" fill="url(#light-grid-highlight)" opacity=".12">
+      <animate attributeName="opacity" values=".08;.28;.08" dur="8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;32 32;0 0" dur="24s" repeatCount="indefinite"/>
+    </rect>
     <ellipse cx="990" cy="180" rx="270" ry="220" fill="url(#light-glow)">
       <animate attributeName="cx" values="970;1030;970" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".72;1;.72" dur="12s" repeatCount="indefinite"/>
     </ellipse>
+    <rect x="-260" y="8" width="240" height="364" fill="url(#light-sweep)">
+      <animate attributeName="x" values="-260;1220" dur="14s" repeatCount="indefinite"/>
+    </rect>
 
     <text x="76" y="85" fill="#701A3D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="4">ENGINEERING / 01</text>
     <text x="72" y="171" fill="#190B12" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="600" letter-spacing="-.8">Mahendra Bandaru</text>
-    <text x="78" y="215" fill="#451126" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="1.1">PYTHON DEVELOPER  /  BACKEND DEVELOPER  /  CYBERSECURITY ENTHUSIAST</text>
+    <text x="78" y="215" fill="#451126" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" letter-spacing=".75">PYTHON DEVELOPER  |  BACKEND DEVELOPER  |  CYBERSECURITY ENTHUSIAST</text>
     <path d="M78 244H720" fill="none" stroke="url(#light-rose)" stroke-width="2" stroke-linecap="round" filter="url(#light-soft-glow)"/>
-    <path d="M78 244H720" fill="none" stroke="#701A3D" stroke-opacity=".65" stroke-width="1" stroke-dasharray="84 558">
-      <animate attributeName="stroke-dashoffset" values="642;0" dur="7s" repeatCount="indefinite"/>
-    </path>
+    <g>
+      <path d="M78 244H190" fill="none" stroke="#F8F0F3" stroke-opacity=".95" stroke-width="2" stroke-linecap="round" filter="url(#light-soft-glow)"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;530 0;0 0" keyTimes="0;.62;1" dur="6s" repeatCount="indefinite"/>
+    </g>
     <text x="78" y="286" fill="#701A3D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="1">PYTHON  ·  FASTAPI  ·  APPLICATION SECURITY</text>
 
     <g transform="translate(958 184)" fill="none" stroke="#701A3D">
@@ -55,7 +73,18 @@
       </ellipse>
       <circle cx="0" cy="-108" r="4" fill="#451126" stroke="none"/>
       <circle cx="76" cy="0" r="3" fill="#701A3D" stroke="none"/>
-      <path d="M-8 0h16M0-8v16" stroke="#190B12" stroke-opacity=".8"/>
+      <g transform="rotate(-35)">
+        <circle r="4" fill="#F8F0F3" stroke="none" filter="url(#light-soft-glow)">
+          <animateMotion path="M-108 0 A108 40 0 1 0 108 0 A108 40 0 1 0 -108 0" dur="10s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values=".55;1;.55" dur="2s" repeatCount="indefinite"/>
+        </circle>
+        <circle r="2.5" fill="#701A3D" stroke="none">
+          <animateMotion path="M108 0 A108 40 0 1 0 -108 0 A108 40 0 1 0 108 0" dur="15s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <path d="M-8 0h16M0-8v16" stroke="#190B12" stroke-opacity=".8">
+        <animate attributeName="stroke-opacity" values=".45;.95;.45" dur="4s" repeatCount="indefinite"/>
+      </path>
     </g>
 
     <text x="1120" y="337" text-anchor="end" fill="#701A3D" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2">BUILD WITH INTENT</text>
