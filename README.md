@@ -22,5 +22,9 @@
   <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
   </a>
+  <p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
+  <a href="YOUR_LEETCODE_URL">LeetCode</a>
+</p>
 </p>
 <!-- Add your verified LinkedIn URL here -->
