@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1248 362" width="1248" height="362" role="img" aria-label="Connect: github.com/Mahendra-dev-hub. Build with intent, learn continuously, keep shipping.">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1248 362" width="1248" height="362" role="img" aria-label="Connect: GitHub, LinkedIn and LeetCode. Build with intent, learn continuously, keep shipping.">
 <title>Mahendra Bandaru</title>
 <defs>
 <linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c050a"/><stop offset="0.5" stop-color="#140810"/><stop offset="1" stop-color="#0c050a"/></linearGradient>
@@ -19,7 +20,137 @@
   <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="6s" repeatCount="indefinite"/>
 </pattern>
 <pattern id="cardgrid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#C77B9B" stroke-opacity="0.05" stroke-width="1"/></pattern>
-<clipPath id="page-clip-23"><rect width="1248" height="362" rx="20"/></clipPath><clipPath id="cn-clip"><rect x="1" y="1" width="1198" height="168" rx="18"/></clipPath><clipPath id="ft-clip"><rect x="1" y="1" width="1198" height="118" rx="18"/></clipPath></defs>
-<rect width="1248" height="362" rx="20" fill="url(#pbg)"/><g clip-path="url(#page-clip-23)"><rect width="1248" height="362" fill="url(#pgrid)"/><circle cx="180" cy="150" r="430" fill="url(#aur0)"><animateTransform attributeName="transform" type="translate" values="0 0;220 90;110 -70;0 0" dur="20s" repeatCount="indefinite"/></circle><circle cx="1146" cy="628" r="2.8" fill="#E5B5C7" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -338" dur="15.3s" begin="-5.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.54;0.54;0" keyTimes="0;0.2;0.8;1" dur="15.3s" begin="-5.5s" repeatCount="indefinite"/></circle><circle cx="901" cy="177" r="1.2" fill="#E5B5C7" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -400" dur="23.9s" begin="-11.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.40;0.40;0" keyTimes="0;0.2;0.8;1" dur="23.9s" begin="-11.9s" repeatCount="indefinite"/></circle><circle cx="34" cy="416" r="2.0" fill="#C77B9B" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -261" dur="26.3s" begin="-17.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.37;0.37;0" keyTimes="0;0.2;0.8;1" dur="26.3s" begin="-17.3s" repeatCount="indefinite"/></circle><circle cx="773" cy="643" r="1.9" fill="#E5B5C7" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -294" dur="26.2s" begin="-25.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.61;0.61;0" keyTimes="0;0.2;0.8;1" dur="26.2s" begin="-25.5s" repeatCount="indefinite"/></circle><circle cx="714" cy="539" r="1.5" fill="#E5B5C7" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -378" dur="21.7s" begin="-4.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.65;0.65;0" keyTimes="0;0.2;0.8;1" dur="21.7s" begin="-4.0s" repeatCount="indefinite"/></circle><circle cx="229" cy="214" r="2.7" fill="#E5B5C7" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -243" dur="17.1s" begin="-9.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.39;0.39;0" keyTimes="0;0.2;0.8;1" dur="17.1s" begin="-9.7s" repeatCount="indefinite"/></circle><circle cx="1164" cy="186" r="2.3" fill="#C77B9B" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -400" dur="15.7s" begin="-8.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.59;0.59;0" keyTimes="0;0.2;0.8;1" dur="15.7s" begin="-8.6s" repeatCount="indefinite"/></circle><circle cx="327" cy="71" r="2.6" fill="#E5B5C7" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -386" dur="25.3s" begin="-3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.46;0.46;0" keyTimes="0;0.2;0.8;1" dur="25.3s" begin="-3.6s" repeatCount="indefinite"/></circle><circle cx="925" cy="66" r="1.9" fill="#C77B9B" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -227" dur="21.2s" begin="-0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.63;0.63;0" keyTimes="0;0.2;0.8;1" dur="21.2s" begin="-0.5s" repeatCount="indefinite"/></circle><circle cx="1004" cy="455" r="3.0" fill="#C77B9B" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -410" dur="26.9s" begin="-20.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.59;0.59;0" keyTimes="0;0.2;0.8;1" dur="26.9s" begin="-20.1s" repeatCount="indefinite"/></circle><circle cx="435" cy="645" r="1.9" fill="#E5B5C7" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -235" dur="17.1s" begin="-12.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.56;0.56;0" keyTimes="0;0.2;0.8;1" dur="17.1s" begin="-12.9s" repeatCount="indefinite"/></circle><circle cx="574" cy="196" r="1.4" fill="#E5B5C7" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -350" dur="22.9s" begin="-18.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.66;0.66;0" keyTimes="0;0.2;0.8;1" dur="22.9s" begin="-18.6s" repeatCount="indefinite"/></circle><rect x="0" y="-12" width="1248" height="3" fill="url(#hline)" opacity="0.7"><animate attributeName="y" values="-12;362" dur="14s" repeatCount="indefinite"/></rect></g>
-<g transform="translate(24 24)"><rect x="1" y="1" width="1198" height="168" rx="18" fill="url(#card)" stroke="#451126" stroke-width="2"/><g clip-path="url(#cn-clip)"><rect x="1" y="1" width="1198" height="168" fill="url(#cardgrid)"/><rect x="-300" y="0" width="300" height="170" fill="url(#scan)"><animate attributeName="x" values="-300;1300" dur="9s" repeatCount="indefinite"/></rect></g><rect x="1" y="1" width="1198" height="168" rx="18" fill="none" stroke="url(#edge)" stroke-width="2.5" pathLength="100" stroke-dasharray="14 86" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="0" to="-100" dur="8s" repeatCount="indefinite"/></rect><circle cx="44" cy="44" r="4" fill="#E5B5C7"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/><animate attributeName="r" values="4;6;4" dur="2.4s" repeatCount="indefinite"/></circle><text x="60" y="49" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="400" text-anchor="start" letter-spacing="3">07 / CONNECT</text><rect x="215" y="43" width="875" height="2" fill="url(#rule)"><animate attributeName="opacity" values="0.35;1;0.35" dur="5s" repeatCount="indefinite"/></rect><g transform="translate(1136 44)" fill="none" stroke="#C77B9B" stroke-opacity="0.55"><circle r="14" stroke-dasharray="3 6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/></circle><circle r="3" fill="#E5B5C7" stroke="none"/></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.222;1" dur="0.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 12;0 12;0 0" keyTimes="0;0.222;1" dur="0.90s" fill="freeze"/><text x="44" y="112" fill="#F8F0F3" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" text-anchor="start">github.com/Mahendra-dev-hub</text></g><rect x="44" y="128" width="520" height="3" rx="1.5" fill="#E5B5C7" opacity="0.8"><animate attributeName="width" values="40;520;520;40" keyTimes="0;0.5;0.85;1" dur="6s" repeatCount="indefinite"/></rect><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.462;1" dur="1.30s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 12;0 12;0 0" keyTimes="0;0.462;1" dur="1.30s" fill="freeze"/><text x="44" y="152" fill="#C77B9B" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Open to opportunities in backend development and application security.</text></g></g><g transform="translate(24 218)"><rect x="1" y="1" width="1198" height="118" rx="18" fill="url(#card)" stroke="#451126" stroke-width="2"/><g clip-path="url(#ft-clip)"><rect x="1" y="1" width="1198" height="118" fill="url(#cardgrid)"/><rect x="-300" y="0" width="300" height="120" fill="url(#scan)"><animate attributeName="x" values="-300;1300" dur="9s" repeatCount="indefinite"/></rect></g><rect x="1" y="1" width="1198" height="118" rx="18" fill="none" stroke="url(#edge)" stroke-width="2.5" pathLength="100" stroke-dasharray="14 86" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="0" to="-100" dur="8s" repeatCount="indefinite"/></rect><rect x="300" y="28" width="600" height="2" fill="url(#mline)"><animate attributeName="opacity" values="0.4;1;0.4" dur="5s" repeatCount="indefinite"/></rect><text x="600" y="74" fill="#F8F0F3" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" text-anchor="middle" letter-spacing="3">Build with intent  ·  Learn continuously  ·  Keep shipping</text><circle cx="0" cy="100" r="3" fill="#E5B5C7"><animate attributeName="cx" values="0;1200" dur="9s" repeatCount="indefinite"/></circle></g>
+<clipPath id="page-clip-23"><rect width="1248" height="362" rx="20"/></clipPath>
+<clipPath id="cn-clip"><rect x="1" y="1" width="1198" height="168" rx="18"/></clipPath>
+<clipPath id="ft-clip"><rect x="1" y="1" width="1198" height="118" rx="18"/></clipPath>
+</defs>
+<rect width="1248" height="362" rx="20" fill="url(#pbg)"/>
+<g clip-path="url(#page-clip-23)">
+  <rect width="1248" height="362" fill="url(#pgrid)"/>
+  <circle cx="180" cy="150" r="430" fill="url(#aur0)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;220 90;110 -70;0 0" dur="20s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1146" cy="628" r="2.8" fill="#E5B5C7" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -338" dur="15.3s" begin="-5.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.54;0.54;0" keyTimes="0;0.2;0.8;1" dur="15.3s" begin="-5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="901" cy="177" r="1.2" fill="#E5B5C7" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -400" dur="23.9s" begin="-11.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.40;0.40;0" keyTimes="0;0.2;0.8;1" dur="23.9s" begin="-11.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="34" cy="416" r="2.0" fill="#C77B9B" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -261" dur="26.3s" begin="-17.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.37;0.37;0" keyTimes="0;0.2;0.8;1" dur="26.3s" begin="-17.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="773" cy="643" r="1.9" fill="#E5B5C7" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -294" dur="26.2s" begin="-25.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.61;0.61;0" keyTimes="0;0.2;0.8;1" dur="26.2s" begin="-25.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="714" cy="539" r="1.5" fill="#E5B5C7" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -378" dur="21.7s" begin="-4.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.65;0.65;0" keyTimes="0;0.2;0.8;1" dur="21.7s" begin="-4.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="229" cy="214" r="2.7" fill="#E5B5C7" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -243" dur="17.1s" begin="-9.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.39;0.39;0" keyTimes="0;0.2;0.8;1" dur="17.1s" begin="-9.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1164" cy="186" r="2.3" fill="#C77B9B" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -400" dur="15.7s" begin="-8.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.59;0.59;0" keyTimes="0;0.2;0.8;1" dur="15.7s" begin="-8.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="327" cy="71" r="2.6" fill="#E5B5C7" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -386" dur="25.3s" begin="-3.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.46;0.46;0" keyTimes="0;0.2;0.8;1" dur="25.3s" begin="-3.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="925" cy="66" r="1.9" fill="#C77B9B" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -227" dur="21.2s" begin="-0.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.63;0.63;0" keyTimes="0;0.2;0.8;1" dur="21.2s" begin="-0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1004" cy="455" r="3.0" fill="#C77B9B" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -410" dur="26.9s" begin="-20.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.59;0.59;0" keyTimes="0;0.2;0.8;1" dur="26.9s" begin="-20.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="435" cy="645" r="1.9" fill="#E5B5C7" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -235" dur="17.1s" begin="-12.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.56;0.56;0" keyTimes="0;0.2;0.8;1" dur="17.1s" begin="-12.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="574" cy="196" r="1.4" fill="#E5B5C7" opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -350" dur="22.9s" begin="-18.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.66;0.66;0" keyTimes="0;0.2;0.8;1" dur="22.9s" begin="-18.6s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="0" y="-12" width="1248" height="3" fill="url(#hline)" opacity="0.7">
+    <animate attributeName="y" values="-12;362" dur="14s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<g transform="translate(24 24)">
+  <rect x="1" y="1" width="1198" height="168" rx="18" fill="url(#card)" stroke="#451126" stroke-width="2"/>
+  <g clip-path="url(#cn-clip)">
+    <rect x="1" y="1" width="1198" height="168" fill="url(#cardgrid)"/>
+    <rect x="-300" y="0" width="300" height="170" fill="url(#scan)">
+      <animate attributeName="x" values="-300;1300" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="1198" height="168" rx="18" fill="none" stroke="url(#edge)" stroke-width="2.5" pathLength="100" stroke-dasharray="14 86" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="44" cy="44" r="4" fill="#E5B5C7">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4;6;4" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="60" y="49" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="400" text-anchor="start" letter-spacing="3">07 / CONNECT</text>
+  <rect x="215" y="43" width="875" height="2" fill="url(#rule)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(1136 44)" fill="none" stroke="#C77B9B" stroke-opacity="0.55">
+    <circle r="14" stroke-dasharray="3 6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#E5B5C7" stroke="none"/>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.222;1" dur="0.90s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 12;0 12;0 0" keyTimes="0;0.222;1" dur="0.90s" fill="freeze"/>
+    <text x="44" y="112" fill="#F8F0F3" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" text-anchor="start">github.com/Mahendra-dev-hub</text>
+  </g>
+  <rect x="44" y="128" width="520" height="3" rx="1.5" fill="#E5B5C7" opacity="0.8">
+    <animate attributeName="width" values="40;520;520;40" keyTimes="0;0.5;0.85;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.462;1" dur="1.30s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 12;0 12;0 0" keyTimes="0;0.462;1" dur="1.30s" fill="freeze"/>
+    <text x="44" y="152" fill="#C77B9B" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Open to opportunities in backend development and application security.</text>
+  </g>
+</g>
+
+<g transform="translate(24 218)">
+  <rect x="1" y="1" width="1198" height="118" rx="18" fill="url(#card)" stroke="#451126" stroke-width="2"/>
+  <g clip-path="url(#ft-clip)">
+    <rect x="1" y="1" width="1198" height="118" fill="url(#cardgrid)"/>
+    <rect x="-300" y="0" width="300" height="120" fill="url(#scan)">
+      <animate attributeName="x" values="-300;1300" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="1198" height="118" rx="18" fill="none" stroke="url(#edge)" stroke-width="2.5" pathLength="100" stroke-dasharray="14 86" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="300" y="28" width="600" height="2" fill="url(#mline)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="74" fill="#F8F0F3" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle" letter-spacing="2">Build with intent · Learn continuously · Keep shipping</text>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" text-anchor="middle">
+    <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
+      <text x="475" y="101" fill="#E5B5C7" text-decoration="underline">LinkedIn</text>
+    </a>
+    <text x="600" y="101" fill="#C77B9B">·</text>
+    <a href="YOUR_LEETCODE_URL" target="_blank" rel="noopener noreferrer">
+      <text x="725" y="101" fill="#E5B5C7" text-decoration="underline">LeetCode</text>
+    </a>
+  </g>
+
+  <circle cx="0" cy="112" r="3" fill="#E5B5C7">
+    <animate attributeName="cx" values="0;1200" dur="9s" repeatCount="indefinite"/>
+  </circle>
+</g>
 </svg>
