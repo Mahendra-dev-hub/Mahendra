@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="88" viewBox="0 0 560 88" role="img" aria-labelledby="projects-title projects-desc">
+  <title id="projects-title">Featured projects motif</title>
+  <desc id="projects-desc">Layered project panels in wine and rose with a slow scanning highlight.</desc>
+  <defs>
+    <linearGradient id="projects-scan" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#E5B5C7" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="#701A3D" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <rect x="91" y="18" width="86" height="52" rx="5" stroke-opacity=".45"/>
+    <rect x="104" y="11" width="86" height="52" rx="5" fill="#F8F0F3" fill-opacity=".45"/>
+    <path d="M119 27h39M119 37h54M119 47h30"/>
+    <path d="M226 44H448" stroke-opacity=".28"/>
+    <path d="M226 44H338" stroke="#C77B9B" stroke-width="3" stroke-dasharray="42 180">
+      <animate attributeName="stroke-dashoffset" values="222;0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <rect x="102" y="11" width="18" height="52" fill="url(#projects-scan)" opacity=".8">
+    <animate attributeName="x" values="102;172;102" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="466" cy="44" r="4" fill="#C77B9B">
+    <animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

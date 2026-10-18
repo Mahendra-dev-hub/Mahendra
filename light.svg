@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="light-title light-desc">
-  <title id="light-title">Mahendra Bandaru — Python Developer</title>
-  <desc id="light-desc">A burgundy editorial profile banner for Mahendra Bandaru: Python Developer, Backend Developer, and Cybersecurity Enthusiast.</desc>
+  <title id="light-title">Mahendra Bandaru — Python Developer, Backend Developer, Cybersecurity Enthusiast</title>
+  <desc id="light-desc">Animated burgundy developer portfolio banner for Mahendra Bandaru, with a static fallback. Python Developer, Backend Developer, and Cybersecurity Enthusiast.</desc>
   <defs>
     <linearGradient id="light-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#F8F0F3"/>

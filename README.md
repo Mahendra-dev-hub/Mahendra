@@ -10,6 +10,8 @@
 
 **Python Developer&nbsp; | &nbsp;Backend Developer&nbsp; | &nbsp;Cybersecurity Enthusiast**
 
+[About](#about-me) &nbsp;·&nbsp; [Education](#education) &nbsp;·&nbsp; [Skills](#technical-skills) &nbsp;·&nbsp; [Projects](#featured-projects) &nbsp;·&nbsp; [Experience](#professional-experience) &nbsp;·&nbsp; [Certifications](#certifications) &nbsp;·&nbsp; [Contributions](#github-contributions) &nbsp;·&nbsp; [Links](#professional-links)
+
 </div>
 
 ---
@@ -18,11 +20,21 @@
 
 I’m **Mahendra Bandaru**, a Python developer interested in dependable backend services and security-minded software. I work across API development, web applications, data tools, and cybersecurity.
 
-**Education**<br>
-B.Tech in Computer Science and Engineering · St. Mark Educational Institution Society Group of Institutions · Affiliated with JNTU Anantapur<br>
+## Education
+
+<div align="center">
+  <img src="./assets/education.svg" alt="Animated line-art graduation cap and open book" width="560">
+</div>
+
+**B.Tech in Computer Science and Engineering**<br>
+St. Mark Educational Institution Society Group of Institutions · Affiliated with JNTU Anantapur<br>
 Graduated 2023 · **CGPA 6.67**
 
 ## Technical Skills
+
+<div align="center">
+  <img src="./assets/skills.svg" alt="Animated connected technical nodes and skill bars" width="560">
+</div>
 
 | Category | Technologies |
 |:--|:--|
@@ -34,6 +46,10 @@ Graduated 2023 · **CGPA 6.67**
 | **Developer tools** | Git · GitHub |
 
 ## Featured Projects
+
+<div align="center">
+  <img src="./assets/projects.svg" alt="Animated layered project panels with a moving highlight" width="560">
+</div>
 
 ### Weather Application
 
@@ -50,7 +66,11 @@ This project is named in my project list, but no implementation source was avail
 
 This project is named in my project list, but no implementation source was available to verify its purpose or stack. The supplied URL points to this profile repository, not to project files, so no project link is shown.
 
-## Experience
+## Professional Experience
+
+<div align="center">
+  <img src="./assets/experience.svg" alt="Animated rose timeline with milestone markers" width="560">
+</div>
 
 **Technical Support · Network L2 Intern**<br>
 ConnectSecure
@@ -91,3 +111,5 @@ The contribution animation is generated from GitHub activity by this repository�
 <sub>Thanks for visiting · Mahendra Bandaru</sub>
 
 </div>
+
+<sub>Motion note: GitHub READMEs do not run arbitrary JavaScript or custom CSS, so page-level scroll effects, animated cards, hover effects, and interactive transitions are not used here. SVG SMIL animation may depend on the renderer; the artwork retains a static appearance when motion is unsupported or disabled.</sub>

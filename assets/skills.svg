@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="88" viewBox="0 0 560 88" role="img" aria-labelledby="skills-title skills-desc">
+  <title id="skills-title">Technical skills motif</title>
+  <desc id="skills-desc">Connected burgundy technical nodes and rose skill bars with gently pulsing accents.</desc>
+  <g fill="none" stroke="#701A3D" stroke-linecap="round" stroke-width="2">
+    <path d="M83 44 119 22l37 22-37 22zM119 22v44M83 44h73"/>
+    <path d="M119 22 148 10M156 44l25-16"/>
+    <path d="M218 25H455M218 44H455M218 63H455" stroke-opacity=".23"/>
+    <path d="M218 25H348M218 44H414M218 63H304" stroke="#C77B9B" stroke-width="4"/>
+    <path d="M218 25H348M218 44H414M218 63H304" stroke="#E5B5C7" stroke-width="1" stroke-dasharray="16 220">
+      <animate attributeName="stroke-dashoffset" values="236;0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#F8F0F3" stroke="#701A3D" stroke-width="2">
+    <circle cx="83" cy="44" r="6"/>
+    <circle cx="119" cy="22" r="6"/>
+    <circle cx="156" cy="44" r="6"/>
+    <circle cx="119" cy="66" r="6"/>
+  </g>
+  <circle cx="119" cy="22" r="3" fill="#C77B9B">
+    <animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="156" cy="44" r="3" fill="#C77B9B">
+    <animate attributeName="opacity" values=".35;1;.35" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
