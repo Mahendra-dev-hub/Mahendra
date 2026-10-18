@@ -12,12 +12,11 @@
   <img alt="Connect: github.com/Mahendra-dev-hub. Build with intent, learn continuously, keep shipping." src="assets/profile-end.svg" width="100%">
 </p>
 
- 
 <p align="center">
   <a href="https://github.com/Mahendra-dev-hub">
     <img src="https://img.shields.io/badge/GitHub-Profile-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="www.linkedin.com/in/mahendra-bhandaru">
+  <a href="https://www.linkedin.com/in/mahendra-bhandaru/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
   <a href="https://leetcode.com/u/mahe5757/">
