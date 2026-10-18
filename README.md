@@ -8,62 +8,27 @@
 </p>
 
 
+
 <!-- =============== CLICKABLE PROJECTS =============== -->
 <h2 align="center">Projects</h2>
 
 <table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>
-        <a href="https://github.com/Mahendra-dev-hub/YOUR_MOVIE_REPO">
-          Movie Discovery &amp; Watchlist
-        </a>
-      </h3>
-
-      <p>
-        Search and discover movies, then manage a watchlist
-        using genre and rating filters.
-      </p>
-
-      <p>
-        <img src="https://img.shields.io/badge/Python-701A3D?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/FastAPI-701A3D?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/React-701A3D?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React">
-      </p>
-
-      <p>
-        <a href="https://github.com/Mahendra-dev-hub/YOUR_MOVIE_REPO">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-701A3D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Movie project">
-        </a>
-      </p>
-    </td>
-
-    <td width="50%" align="center" valign="top">
-      <h3>
-        <a href="https://github.com/Mahendra-dev-hub/YOUR_WEATHER_REPO">
-          Weather Application
-        </a>
-      </h3>
-
-      <p>
-        Retrieves location and weather forecast information
-        using the Open-Meteo API.
-      </p>
-
-      <p>
-        <img src="https://img.shields.io/badge/Python-701A3D?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/FastAPI-701A3D?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/Open--Meteo-701A3D?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Open-Meteo API">
-      </p>
-
-      <p>
-        <a href="https://github.com/Mahendra-dev-hub/YOUR_WEATHER_REPO">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-701A3D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Weather project">
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3><a href="https://github.com/Mahendra-dev-hub/YOUR_MOVIE_REPO">Movie Discovery &amp; Watchlist</a></h3>
+<p>Search and discover movies, then manage a watchlist using genre and rating filters.</p>
+<p><img src="https://img.shields.io/badge/Python-701A3D?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-701A3D?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/React-701A3D?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React"></p>
+<p><a href="https://github.com/Mahendra-dev-hub/YOUR_MOVIE_REPO"><img src="https://img.shields.io/badge/VIEW_PROJECT-701A3D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Movie project"></a></p>
+</td>
+<td width="50%" align="center" valign="top">
+<h3><a href="https://github.com/Mahendra-dev-hub/YOUR_WEATHER_REPO">Weather Application</a></h3>
+<p>Retrieves location and weather forecast information using the Open-Meteo API.</p>
+<p><img src="https://img.shields.io/badge/Python-701A3D?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-701A3D?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Open--Meteo-701A3D?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Open-Meteo API"></p>
+<p><a href="https://github.com/Mahendra-dev-hub/YOUR_WEATHER_REPO"><img src="https://img.shields.io/badge/VIEW_PROJECT-701A3D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Weather project"></a></p>
+</td>
+</tr>
 </table>
+
 
 
 <!-- =============== EXPERIENCE =============== -->
