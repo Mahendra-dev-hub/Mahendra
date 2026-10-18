@@ -22,4 +22,14 @@
   <a href="https://leetcode.com/u/mahe5757/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
   </a>
+  
+<p align="center">
+  <a href="https://github.com/Mahendra-dev-hub/YOUR_MOVIE_PROJECT_REPO">
+    <img src="https://img.shields.io/badge/Movie_Discovery-View_Project-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="View Movie Discovery project">
+  </a>
+  <a href="https://github.com/Mahendra-dev-hub/YOUR_WEATHER_PROJECT_REPO">
+    <img src="https://img.shields.io/badge/Weather_App-View_Project-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="View Weather project">
+  </a>
+</p>
+
 </p>
