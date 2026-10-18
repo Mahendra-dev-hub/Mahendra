@@ -1,26 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="88" viewBox="0 0 560 88" role="img" aria-labelledby="projects-title projects-desc">
-  <title id="projects-title">Featured projects motif</title>
-  <desc id="projects-desc">Layered project panels in wine and rose with a slow scanning highlight.</desc>
-  <defs>
-    <linearGradient id="projects-scan" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#C77B9B" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#E5B5C7" stop-opacity=".75"/>
-      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <g fill="none" stroke="#701A3D" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-    <rect x="91" y="18" width="86" height="52" rx="5" stroke-opacity=".45"/>
-    <rect x="104" y="11" width="86" height="52" rx="5" fill="#F8F0F3" fill-opacity=".45"/>
-    <path d="M119 27h39M119 37h54M119 47h30"/>
-    <path d="M226 44H448" stroke-opacity=".28"/>
-    <path d="M226 44H338" stroke="#C77B9B" stroke-width="3" stroke-dasharray="42 180">
-      <animate attributeName="stroke-dashoffset" values="222;0" dur="7s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <rect x="102" y="11" width="18" height="52" fill="url(#projects-scan)" opacity=".8">
-    <animate attributeName="x" values="102;172;102" dur="8s" repeatCount="indefinite"/>
-  </rect>
-  <circle cx="466" cy="44" r="4" fill="#C77B9B">
-    <animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/>
-  </circle>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
+<title id="title">Animated projects illustration</title><desc id="desc">Animated project cards for movie discovery, resume tailoring, and weather applications.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190b12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+  <linearGradient id="rose" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701a3d"/><stop offset=".5" stop-color="#e5b5c7"/><stop offset="1" stop-color="#c77b9b"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f8f0f3" stop-opacity="0"/><stop offset=".5" stop-color="#f8f0f3" stop-opacity=".20"/><stop offset="1" stop-color="#f8f0f3" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#e5b5c7" stroke-opacity=".075" stroke-width="1"/></pattern>
+</defs>
+<rect width="1000" height="150" rx="16" fill="#10070c"/>
+<rect width="1000" height="150" rx="16" fill="url(#panel)" opacity=".86"/>
+<rect width="1000" height="150" rx="16" fill="url(#grid)"/>
+<rect x="-180" y="0" width="90" height="150" fill="url(#shine)"><animate attributeName="x" values="-180;1180" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="998" height="148" rx="15" fill="none" stroke="#c77b9b" stroke-opacity=".4"/>
+<text x="35" y="34" font-family="monospace" font-size="10" letter-spacing="3" fill="#e5b5c7">04 / SELECTED PROJECTS</text>
+<g transform="translate(125 83)">
+<rect x="-45" y="-35" width="90" height="70" rx="5" fill="#190b12" stroke="#c77b9b"/>
+<path d="M-30 -20H30M-30 -8H18M-30 4H27M-30 16H8" stroke="#c77b9b" stroke-width="3" stroke-linecap="round"/>
+<circle cx="25" cy="-23" r="5" fill="#e5b5c7"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
+</g>
+<text x="220" y="73" font-family="Georgia,serif" font-size="22" fill="#f8f0f3">Movie Discovery</text>
+<text x="220" y="96" font-family="monospace" font-size="10" fill="#e5b5c7">FASTAPI · REACT · SQLALCHEMY · TMDB</text>
+<path d="M220 113H520" stroke="#701a3d" stroke-width="2"/><path d="M220 113H320" stroke="#e5b5c7" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 300;300 0;0 300" dur="4s" repeatCount="indefinite"/></path>
+<g transform="translate(650 82)">
+<rect x="-38" y="-35" width="76" height="70" rx="4" fill="#190b12" stroke="#c77b9b" transform="rotate(7)"/>
+<path d="M-20 -17H18M-20 -4H22M-20 9H10" stroke="#e5b5c7" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-opacity" values=".3;1;.3" dur="2.5s" repeatCount="indefinite"/></path>
+</g>
+<text x="720" y="73" font-family="Georgia,serif" font-size="22" fill="#f8f0f3">More projects</text>
+<text x="720" y="96" font-family="monospace" font-size="10" fill="#e5b5c7">RESUME TAILORING · WEATHER</text>
 </svg>

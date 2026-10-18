@@ -1,153 +1,101 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./light.svg" alt="Mahendra Bandaru — Python Developer, Backend Developer, Cybersecurity Enthusiast">
-  </picture>
-</div>
+<p align="center">
+  <img src="assets/hero.svg" alt="Animated burgundy banner — Mahendra Bandaru" width="100%">
+</p>
 
-<div align="center">
-
-**PYTHON DEVELOPER &nbsp;·&nbsp; BACKEND DEVELOPER &nbsp;·&nbsp; CYBERSECURITY ENTHUSIAST**
-
-[About](#about-me) &nbsp;·&nbsp; [Education](#education) &nbsp;·&nbsp; [Skills](#technical-skills) &nbsp;·&nbsp; [Projects](#featured-projects) &nbsp;·&nbsp; [Experience](#professional-experience) &nbsp;·&nbsp; [Certifications](#certifications) &nbsp;·&nbsp; [Contributions](#github-contributions) &nbsp;·&nbsp; [Links](#professional-links)
-
-</div>
+<h1 align="center">Mahendra Bandaru</h1>
+<p align="center"><strong>Python Developer · Backend Development · Cybersecurity</strong></p>
+<p align="center">Building practical applications, API-driven services, and security-minded software.</p>
 
 ---
+
+<p align="center"><img src="assets/about.svg" alt="Animated About Me accent" width="100%"></p>
 
 ## About Me
 
-> ### Building dependable software with a security-minded approach.
->
-> I’m **Mahendra Bandaru** — a Python developer interested in backend services, API development, web applications, data tools, and cybersecurity.
+I'm a Python developer interested in dependable backend services, API development, web applications, and cybersecurity. I enjoy turning practical problems into working software and continuously improving my development skills.
+
+<p align="center"><img src="assets/education.svg" alt="Animated education illustration" width="100%"></p>
 
 ## Education
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <strong>B.Tech in Computer Science and Engineering</strong><br>
-        St. Mark Educational Institution Society Group of Institutions<br>
-        Affiliated with JNTU Anantapur<br><br>
-        <strong>Graduated</strong> · 2023 &nbsp;&nbsp; <strong>CGPA</strong> · 6.67
-      </td>
-    </tr>
-  </tbody>
-</table>
+**B.Tech in Computer Science and Engineering**  
+St. Mark Educational Institution Society Group of Institutions · Affiliated with JNTU Anantapur  
+Graduated in 2023 · **CGPA: 6.67**
+
+<p align="center"><img src="assets/skills.svg" alt="Animated technical skills illustration" width="100%"></p>
 
 ## Technical Skills
 
-<table>
-  <thead>
-    <tr><th align="left">AREA</th><th align="left">TOOLS &amp; TECHNOLOGIES</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Languages</strong></td><td>Python · SQL</td></tr>
-    <tr><td><strong>Backend &amp; APIs</strong></td><td>FastAPI · REST APIs · SQLAlchemy</td></tr>
-    <tr><td><strong>Frontend</strong></td><td>React</td></tr>
-    <tr><td><strong>Data &amp; computer vision</strong></td><td>NumPy · Pandas · OpenCV</td></tr>
-    <tr><td><strong>Cybersecurity</strong></td><td>Nmap · Burp Suite · Wireshark · Nessus</td></tr>
-    <tr><td><strong>Developer tools</strong></td><td>Git · GitHub</td></tr>
-  </tbody>
-</table>
+| Category | Technologies |
+|---|---|
+| Languages | Python, SQL |
+| Backend | FastAPI, REST APIs |
+| Frontend | React |
+| Database / ORM | SQLAlchemy |
+| Data and image libraries | NumPy, Pandas, OpenCV |
+| Security tools | Nmap, Burp Suite, Wireshark, Nessus |
+| Tools | Git, GitHub |
+
+<p align="center"><img src="assets/projects.svg" alt="Animated projects illustration" width="100%"></p>
 
 ## Featured Projects
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <strong>01 &nbsp;·&nbsp; Weather Application</strong><br><br>
-        A city-based weather app with a React/Vite interface and a FastAPI backend that requests current conditions from WeatherAPI.<br><br>
-        <strong>TECH</strong> &nbsp; Python · FastAPI · Requests · React · Vite · WeatherAPI<br><br>
-        <a href="https://github.com/Mahendra-dev-hub/live-weather-app">SOURCE REPOSITORY</a>
-        &nbsp;·&nbsp;
-        <a href="https://live-weather-app-xi.vercel.app">LIVE DEMO</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>02 &nbsp;·&nbsp; Movie Discovery and Watchlist Application</strong><br><br>
-        This project is named in my project list, but implementation details could not be verified. No project URL is included because the supplied URL points to this profile repository, not project files.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>03 &nbsp;·&nbsp; Resume Tailoring Application</strong><br><br>
-        This project is named in my project list, but implementation details could not be verified. No project URL is included because the supplied URL points to this profile repository, not project files.
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Movie Discovery and Watchlist Application
 
-## Professional Experience
+A full-stack application for discovering movies and managing a personal watchlist.
 
-<table>
-  <tbody>
-    <tr>
-      <td valign="top"><strong>01</strong></td>
-      <td><strong>Technical Support · Network L2 Intern</strong><br>ConnectSecure</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>02</strong></td>
-      <td><strong>VAPT Intern</strong><br>Cartel Software Pvt. Ltd.<br>May 2023 – October 2023</td>
-    </tr>
-  </tbody>
-</table>
+**Technologies:** Python, FastAPI, React, SQLAlchemy, TMDB API  
+**Features:** Movie discovery, filtering, movie information from TMDB, and watchlist management.
+
+- Source code: **Add your verified repository URL**
+- Live demo: **Add your verified deployment URL**, if available
+
+### Resume Tailoring Application
+
+An application that helps tailor resume content to a job description.
+
+**Technologies:** Python, FastAPI, AI API integration (verify the exact provider in your source code).
+
+- Source code: **Add your verified repository URL**
+- Live demo: **Add your verified deployment URL**, if available
+
+### Weather Application
+
+A weather application that retrieves location and forecast information.
+
+**Technologies:** Python, FastAPI, Open-Meteo API.
+
+- Source code: **Add your verified repository URL**
+- Live demo: **Add your verified deployment URL**, if available
+
+<p align="center"><img src="assets/experience.svg" alt="Animated experience timeline" width="100%"></p>
+
+## Experience
+
+**Technical Support Network L2 Intern — ConnectSecure**  
+Worked with a product used to scan Windows, Linux, and macOS systems to identify vulnerabilities; Nessus was among the tools used.
+
+**VAPT Intern — Cartel Software Pvt. Ltd.**  
+May 2023 – October 2023
+
+<p align="center"><img src="assets/certifications.svg" alt="Animated certifications illustration" width="100%"></p>
 
 ## Certifications
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        CEH and Python certifications were mentioned, but credential records were not available to verify them. The supplied URL points to this profile repository, so no certification is claimed here.
-      </td>
-    </tr>
-  </tbody>
-</table>
+- **Certified Ethical Hacker (CEH)** — verify the credential and status before publishing.
+- **Python certification** — add the issuing organization and credential link if available.
 
-## GitHub Contributions
+<p align="center"><img src="assets/activity.svg" alt="Animated GitHub activity decoration; not contribution statistics" width="100%"></p>
 
-The contribution graphic below is generated from GitHub activity by this repository’s existing workflow. It visualizes the contribution graph; no counts, streaks, or rankings are added.
+## GitHub Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahendra-dev-hub/Mahendra/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahendra-dev-hub/Mahendra/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Mahendra-dev-hub/Mahendra/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph animation">
-  </picture>
-</div>
+View the real contribution graph and activity on my [GitHub profile](https://github.com/Mahendra-dev-hub). The animated graphic above is decorative and does not represent contribution counts.
 
-## Professional Links
+## Connect
 
-<table>
-  <tbody>
-    <tr>
-      <td><strong>GitHub</strong></td>
-      <td><a href="https://github.com/Mahendra-dev-hub">github.com/Mahendra-dev-hub</a></td>
-    </tr>
-    <tr>
-      <td><strong>LinkedIn</strong></td>
-      <td><a href="https://www.linkedin.com/in/mahendra-bhandaru">linkedin.com/in/mahendra-bhandaru</a></td>
-    </tr>
-    <tr>
-      <td><strong>LeetCode</strong></td>
-      <td><a href="https://leetcode.com/u/mahe5757/">leetcode.com/u/mahe5757</a></td>
-    </tr>
-  </tbody>
-</table>
+- GitHub: [Mahendra-dev-hub](https://github.com/Mahendra-dev-hub)
+- LinkedIn: **Add your verified LinkedIn profile URL**
 
 ---
 
-<div align="center">
-
-<img src="./assets/footer.svg" alt="Burgundy and rose line ornament" width="100%">
-
-<sub>Thanks for visiting · Mahendra Bandaru</sub>
-
-</div>
-
-<sub>GitHub README files cannot execute arbitrary CSS or JavaScript. The banner and contribution graphic use SVG animation where supported and retain static artwork otherwise. Full-page moving backgrounds, hover effects, and scroll-triggered animation would require a separate portfolio website.</sub>
+<p align="center"><sub>Build with intent · Learn continuously · Keep shipping</sub></p>

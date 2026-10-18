@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160" role="img" aria-labelledby="title desc">
+<title id="title">Mahendra Bandaru animated hero</title><desc id="desc">Burgundy developer banner with animated light sweep and orbit.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190b12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+  <linearGradient id="rose" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701a3d"/><stop offset=".5" stop-color="#e5b5c7"/><stop offset="1" stop-color="#c77b9b"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f8f0f3" stop-opacity="0"/><stop offset=".5" stop-color="#f8f0f3" stop-opacity=".20"/><stop offset="1" stop-color="#f8f0f3" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#e5b5c7" stroke-opacity=".075" stroke-width="1"/></pattern>
+</defs>
+<rect width="1000" height="160" rx="16" fill="#10070c"/>
+<rect width="1000" height="160" rx="16" fill="url(#panel)" opacity=".86"/>
+<rect width="1000" height="160" rx="16" fill="url(#grid)"/>
+<rect x="-180" y="0" width="90" height="160" fill="url(#shine)"><animate attributeName="x" values="-180;1180" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="998" height="158" rx="15" fill="none" stroke="#c77b9b" stroke-opacity=".4"/>
+<circle cx="820" cy="75" r="56" fill="none" stroke="#c77b9b" stroke-opacity=".35"/>
+<circle cx="820" cy="75" r="42" fill="none" stroke="#c77b9b" stroke-opacity=".35" stroke-dasharray="2 7"/>
+<ellipse cx="820" cy="75" rx="24" ry="57" fill="none" stroke="#e5b5c7" stroke-opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 820 75" to="360 820 75" dur="18s" repeatCount="indefinite"/></ellipse>
+<circle cx="820" cy="19" r="3.5" fill="#e5b5c7"><animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="875" cy="75" r="2.5" fill="#c77b9b"/>
+<path d="M814 75h12M820 69v12" stroke="#f8f0f3" stroke-opacity=".8"/>
+<text x="55" y="40" font-family="monospace" font-size="10" letter-spacing="4" fill="#e5b5c7">ENGINEERING / 01</text>
+<text x="54" y="88" font-family="Georgia,serif" font-size="42" font-weight="bold" fill="#f8f0f3">Mahendra Bandaru</text>
+<text x="57" y="116" font-family="monospace" font-size="12" letter-spacing=".5" fill="#f3b8d0">PYTHON DEVELOPER  /  BACKEND DEVELOPMENT  /  CYBERSECURITY</text>
+<text x="57" y="136" font-family="monospace" font-size="9" letter-spacing="1.5" fill="#c77b9b">PYTHON · FASTAPI · APPLICATION SECURITY</text>
+</svg>

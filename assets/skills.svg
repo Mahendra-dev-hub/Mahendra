@@ -1,25 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="88" viewBox="0 0 560 88" role="img" aria-labelledby="skills-title skills-desc">
-  <title id="skills-title">Technical skills motif</title>
-  <desc id="skills-desc">Connected burgundy technical nodes and rose skill bars with gently pulsing accents.</desc>
-  <g fill="none" stroke="#701A3D" stroke-linecap="round" stroke-width="2">
-    <path d="M83 44 119 22l37 22-37 22zM119 22v44M83 44h73"/>
-    <path d="M119 22 148 10M156 44l25-16"/>
-    <path d="M218 25H455M218 44H455M218 63H455" stroke-opacity=".23"/>
-    <path d="M218 25H348M218 44H414M218 63H304" stroke="#C77B9B" stroke-width="4"/>
-    <path d="M218 25H348M218 44H414M218 63H304" stroke="#E5B5C7" stroke-width="1" stroke-dasharray="16 220">
-      <animate attributeName="stroke-dashoffset" values="236;0" dur="9s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <g fill="#F8F0F3" stroke="#701A3D" stroke-width="2">
-    <circle cx="83" cy="44" r="6"/>
-    <circle cx="119" cy="22" r="6"/>
-    <circle cx="156" cy="44" r="6"/>
-    <circle cx="119" cy="66" r="6"/>
-  </g>
-  <circle cx="119" cy="22" r="3" fill="#C77B9B">
-    <animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="156" cy="44" r="3" fill="#C77B9B">
-    <animate attributeName="opacity" values=".35;1;.35" dur="4s" repeatCount="indefinite"/>
-  </circle>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
+<title id="title">Animated technical skills illustration</title><desc id="desc">Animated network nodes and skill progress lines.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190b12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+  <linearGradient id="rose" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701a3d"/><stop offset=".5" stop-color="#e5b5c7"/><stop offset="1" stop-color="#c77b9b"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f8f0f3" stop-opacity="0"/><stop offset=".5" stop-color="#f8f0f3" stop-opacity=".20"/><stop offset="1" stop-color="#f8f0f3" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#e5b5c7" stroke-opacity=".075" stroke-width="1"/></pattern>
+</defs>
+<rect width="1000" height="150" rx="16" fill="#10070c"/>
+<rect width="1000" height="150" rx="16" fill="url(#panel)" opacity=".86"/>
+<rect width="1000" height="150" rx="16" fill="url(#grid)"/>
+<rect x="-180" y="0" width="90" height="150" fill="url(#shine)"><animate attributeName="x" values="-180;1180" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="998" height="148" rx="15" fill="none" stroke="#c77b9b" stroke-opacity=".4"/>
+<text x="35" y="34" font-family="monospace" font-size="10" letter-spacing="3" fill="#e5b5c7">03 / TECHNICAL SKILLS</text>
+<g stroke="#c77b9b" stroke-width="2" fill="#190b12">
+<path d="M115 77L165 48 215 77 165 106Z" fill="none"/>
+<path d="M115 77H215M165 48V106" stroke-opacity=".6"/>
+<circle cx="115" cy="77" r="7"/><circle cx="165" cy="48" r="7"/><circle cx="215" cy="77" r="7"/><circle cx="165" cy="106" r="7"/>
+<circle cx="115" cy="77" r="7" fill="#e5b5c7"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g stroke="#451126" stroke-width="5" stroke-linecap="round"><path d="M300 52H690"/><path d="M300 78H690"/><path d="M300 104H690"/></g>
+<g stroke="url(#rose)" stroke-width="5" stroke-linecap="round"><path d="M300 52H530"><animate attributeName="stroke-dasharray" values="0 390;230 390;0 390" dur="4s" repeatCount="indefinite"/></path><path d="M300 78H620"><animate attributeName="stroke-dasharray" values="0 390;320 390;0 390" dur="5s" repeatCount="indefinite"/></path><path d="M300 104H455"><animate attributeName="stroke-dasharray" values="0 390;155 390;0 390" dur="3.5s" repeatCount="indefinite"/></path></g>
+<text x="750" y="57" font-family="monospace" font-size="10" fill="#e5b5c7">PYTHON</text><text x="750" y="83" font-family="monospace" font-size="10" fill="#e5b5c7">BACKEND</text><text x="750" y="109" font-family="monospace" font-size="10" fill="#e5b5c7">SECURITY</text>
 </svg>

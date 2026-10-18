@@ -1,31 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="88" viewBox="0 0 560 88" role="img" aria-labelledby="experience-title experience-desc">
-  <title id="experience-title">Professional experience motif</title>
-  <desc id="experience-desc">A rose-accented career timeline with understated glowing milestones.</desc>
-  <defs>
-    <linearGradient id="experience-track" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#701A3D"/>
-      <stop offset=".5" stop-color="#C77B9B"/>
-      <stop offset="1" stop-color="#701A3D"/>
-    </linearGradient>
-  </defs>
-  <path d="M74 44H478" fill="none" stroke="url(#experience-track)" stroke-width="2" stroke-opacity=".55"/>
-  <path d="M74 44H478" fill="none" stroke="#E5B5C7" stroke-width="2" stroke-dasharray="34 370">
-    <animate attributeName="stroke-dashoffset" values="404;0" dur="10s" repeatCount="indefinite"/>
-  </path>
-  <g fill="#F8F0F3" stroke="#701A3D" stroke-width="2">
-    <circle cx="135" cy="44" r="9"/>
-    <circle cx="276" cy="44" r="9"/>
-    <circle cx="417" cy="44" r="9"/>
-  </g>
-  <g fill="#C77B9B">
-    <circle cx="135" cy="44" r="4">
-      <animate attributeName="r" values="3;5;3" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="276" cy="44" r="4">
-      <animate attributeName="opacity" values=".4;1;.4" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="417" cy="44" r="4">
-      <animate attributeName="r" values="3;5;3" dur="4s" begin="1s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
+<title id="title">Animated experience timeline</title><desc id="desc">Animated timeline for ConnectSecure and Cartel Software experience.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190b12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+  <linearGradient id="rose" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701a3d"/><stop offset=".5" stop-color="#e5b5c7"/><stop offset="1" stop-color="#c77b9b"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f8f0f3" stop-opacity="0"/><stop offset=".5" stop-color="#f8f0f3" stop-opacity=".20"/><stop offset="1" stop-color="#f8f0f3" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#e5b5c7" stroke-opacity=".075" stroke-width="1"/></pattern>
+</defs>
+<rect width="1000" height="150" rx="16" fill="#10070c"/>
+<rect width="1000" height="150" rx="16" fill="url(#panel)" opacity=".86"/>
+<rect width="1000" height="150" rx="16" fill="url(#grid)"/>
+<rect x="-180" y="0" width="90" height="150" fill="url(#shine)"><animate attributeName="x" values="-180;1180" dur="8s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="998" height="148" rx="15" fill="none" stroke="#c77b9b" stroke-opacity=".4"/>
+<text x="35" y="34" font-family="monospace" font-size="10" letter-spacing="3" fill="#e5b5c7">05 / PROFESSIONAL EXPERIENCE</text>
+<path d="M85 67V118" stroke="#701a3d" stroke-width="3"/>
+<path d="M85 67V118" stroke="#e5b5c7" stroke-width="2" stroke-dasharray="6 45"><animate attributeName="stroke-dashoffset" values="0;-51" dur="2.8s" repeatCount="indefinite"/></path>
+<circle cx="85" cy="70" r="8" fill="#190b12" stroke="#e5b5c7" stroke-width="3"><animate attributeName="r" values="6;9;6" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="85" cy="116" r="8" fill="#190b12" stroke="#c77b9b" stroke-width="3"><animate attributeName="r" values="6;9;6" dur="2.5s" repeatCount="indefinite"/></circle>
+<text x="120" y="75" font-family="Georgia,serif" font-size="21" fill="#f8f0f3">ConnectSecure</text>
+<text x="120" y="96" font-family="monospace" font-size="10" fill="#e5b5c7">TECHNICAL SUPPORT · NETWORK L2</text>
+<text x="520" y="75" font-family="Georgia,serif" font-size="21" fill="#f8f0f3">Cartel Software</text>
+<text x="520" y="96" font-family="monospace" font-size="10" fill="#e5b5c7">VAPT INTERN · MAY–OCT 2023</text>
 </svg>
