@@ -75,3 +75,23 @@
       alt="LeetCode Profile">
   </a>
 </p>
+
+
+## 🚀 Featured Projects
+
+### 🎬 Movie Discovery & Watchlist
+
+[![Live Project](https://img.shields.io/badge/Live%20Project-Visit%20Website-701A3D?style=for-the-badge&logo=vercel)](https://movie-watchlist-virid.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-451126?style=for-the-badge&logo=github)](https://github.com/Mahendra-dev-hub/movie-watchlist.git)
+
+Search and discover movies, filter by genre and rating, and manage your personal watchlist.
+
+**Technologies:** Python · FastAPI · React · SQLAlchemy · TMDB API
+
+### 🌦️ Weather Application
+
+Replace the placeholder links below with your actual Weather Application URLs.
+
+[![Live Project](https://img.shields.io/badge/Live%20Project-Visit%20Website-701A3D?style=for-the-badge&logo=vercel)](https://live-weather-app-xi.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-451126?style=for-the-badge&logo=github)](https://github.com/Mahendra-dev-hub/live-weather-app.git)
+
